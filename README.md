@@ -9,7 +9,7 @@ Use at your own risk!
 
 | Name | Base release | Description | Status |
 | ---- | ------------ | ----------- | ------ |
-| [Diadochi for Neocities](https://github.com/indraj-net/diadochi-neocities) | v1 r1 | Supports custom 404 pages and CLI uploads | Active |
+| [Diadochi for Neocities](https://github.com/indraj-net/diadochi-neocities) | v1 rev1 | Supports custom 404 pages and CLI uploads | Active |
 
 ## Prerequisites
 
