@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Indraj Gandham"
+	],
+	"copyright": "Copyright © 2025 Indraj Gandham",
+	"dependencies": {},
+	"description": "A minimal static site generator for Neocities",
+	"license": "AGPL-3.0-or-later",
+	"name": "diadochi"
+}

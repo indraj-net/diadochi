@@ -1,27 +1,20 @@
 # Diadochi
 
-A minimal static site generator for people who hate the web.
-It is designed to be simple to understand and extend, so it probably won't meet
-your needs.
-
-See below for a list of enhanced, community-supported forks.
-Use at your own risk!
-
-| Name | Base release | Description | Status |
-| ---- | ------------ | ----------- | ------ |
-| [Diadochi for Neocities](https://github.com/indraj-net/diadochi-neocities) | v1 rev1 | Supports custom 404 pages and CLI uploads | Active |
+A minimal static site generator for Neocities.
 
 ## Prerequisites
 
-The target interpreter is Python 3.8 or higher.
-No additional dependencies are required.
+The Digital Mars D compiler (dmd) package from [dlang.org](https://dlang.org/).
+
+## Build
+
+```
+dub build --build=release
+```
 
 ## API stability
 
-Interfaces do not change between revisions, but may change between versions.
-Revisions which rectify security flaws are issued for the most recent version
-and backported to the previous version (if necessary).
-Earlier versions will not receive security fixes.
+Diadochi releases now follow the [SemVer](https://semver.org/) specification.
 
 ## Report a bug
 
@@ -47,15 +40,16 @@ full, legal name and a non-temporary email address.
 
 ### Coding style
 
-Please ignore PEP 8 and related standards (they are terrible).
-In particular, you should:
+Please adhere to the kernel coding standards as far as possible.
+In particular:
 
 - indent using tabs rather than spaces;
-- indent width should be set to 8 chars;
-- line width should not exceed 80 chars unless this affects readability;
-- refrain from the use of object-oriented style;
-- refrain from the use of so-called design patterns; and
-- refrain from catching exceptions you don't intend to handle.
+- indent width should be set to 8 chars; and
+- line width should not exceed 80 chars unless this affects readability.
+
+D-specific guidelines:
+
+- refrain from writing your own classes, interfaces and templates.
 
 ### Can I rewrite this in Rust?
 

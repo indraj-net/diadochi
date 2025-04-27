@@ -1,7 +1,12 @@
+Security fixes are issued for the most recent version and backported to the
+previous version (if necessary).
+Earlier versions will not receive security fixes.
+
 ## Supported versions
 
 | Version | Supported |
 | ------- | --------- |
+| **2**   | **Yes**   |
 | 1       | Yes       |
 
 ## Report a security bug
