@@ -3,6 +3,7 @@
 | Version | Supported |
 | ------- | --------- |
 | 1       | Yes       |
+| 2       | Yes       |
 
 ## Report a security bug
 
