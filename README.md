@@ -15,9 +15,6 @@ dub build --build=release
 ## API stability
 
 Diadochi releases now follow the [SemVer](https://semver.org/) specification.
-Security fixes are issued for the most recent version and backported to the
-previous version (if necessary).
-Earlier versions will not receive security fixes.
 
 ## Report a bug
 

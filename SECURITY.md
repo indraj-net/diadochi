@@ -1,3 +1,7 @@
+Security fixes are issued for the most recent version and backported to the
+previous version (if necessary).
+Earlier versions will not receive security fixes.
+
 ## Supported versions
 
 | Version | Supported |
