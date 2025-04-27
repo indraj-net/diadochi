@@ -6,8 +6,8 @@ Earlier versions will not receive security fixes.
 
 | Version | Supported |
 | ------- | --------- |
+| **2**   | **Yes**   |
 | 1       | Yes       |
-| 2       | Yes       |
 
 ## Report a security bug
 
