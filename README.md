@@ -53,7 +53,7 @@ D-specific guidelines:
 
 ### Can I rewrite this in Rust?
 
-Sure, but I will [reject](https://indraj.net/posts/rust) your PR.
+Sure, but I will [reject](https://indraj.net/rust) your PR.
 You're welcome to maintain your own version, however.
 
 ## License
